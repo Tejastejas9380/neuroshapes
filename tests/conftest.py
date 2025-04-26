@@ -12,7 +12,6 @@ from tests.shaclvalidator import add_file_to_graph
 
 LOGGER = logging.getLogger(__name__)
 
-
 def pytest_configure():
     """Initializes pytest.shape_to_file variable with the mapping of shapes_id to its file"""
     pytest.path_to_namespace = {
