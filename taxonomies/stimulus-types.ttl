@@ -13,6 +13,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix stimt: <http://bbp.epfl.ch/neurosciencegraph/taxonomies/stimulustypes/> .
 
+
 stimt: a skos:ConceptScheme, owl:Ontology ;
     rdfs:label "Label"@en ;
     dc:creator "Anna-Kristin Kaufmann <anna-kristin.kaufmann@epfl.ch>"";
