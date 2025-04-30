@@ -34,7 +34,7 @@ nsg:definingOntology rdf:type owl:AnnotationProperty .
 
 #################################################################
 #    Object Properties
-#################################################################
+################################################################
 
 ###  http://schema.org/additionalName
 schema:additionalName rdf:type owl:ObjectProperty ;
